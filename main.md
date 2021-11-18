@@ -1,12 +1,10 @@
-# GLASS REVOLVER
+**Glass Revolver** is Jacob Williams, an American video game developer.
 
-Glass Revolver is Jacob Williams, an American video game developer.
+Glass Revolver is currently working on **WE KILL MONSTERS**.
 
-## CURRENTLY WORKING ON
+We Kill Monsters is an adventure game for up to four players, where players descend into a mysterious, massive, interconnected pit with their only known goal being to reach its bottom. Its goal is to simulate the feeling of a long and arduous journey.
 
-WE KILL MONSTERS
-
-## PREVIOUS GAMES
+Glass Revolver's previous works include:
 
 * ITTA ([Steam](https://store.steampowered.com/app/775580/ITTA/))
 * HOUSE OF GOD ([Steam](https://store.steampowered.com/app/1457980/HOUSE_OF_GOD/), [itch.io](https://glass-revolver.itch.io/house-of-god))
