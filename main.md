@@ -4,7 +4,9 @@
 
 Previous works include:
 
-* ITTA ([Steam](https://store.steampowered.com/app/775580/ITTA/))
-* HOUSE OF GOD ([Steam](https://store.steampowered.com/app/1457980/HOUSE_OF_GOD/), [itch.io](https://glass-revolver.itch.io/house-of-god))
+| TITLE                      | LINKS       |
+|----------------------------|-------------|
+| ITTA | [Steam](https://store.steampowered.com/app/775580/ITTA/) |
+| HOUSE OF GOD | [Steam](https://store.steampowered.com/app/1457980/HOUSE_OF_GOD/), [itch.io](https://glass-revolver.itch.io/house-of-god) |
 
 Follow development on [Twitter](https://twitter.com/Glass__Revolver) and [Discord](https://discord.gg/N5MyCGzzJ6).
